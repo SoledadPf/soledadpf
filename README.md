@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **Java, Spring Boot, Microservices, APIs, SQL Databases**
 
-- 📫 Feel free to reach me at **soledadpf2410@gmail.com**
+- 📫 Feel free to reach me at **valerypomaflores24@gmail.com**
 
 - 🏠 Connect with me on **[LinkedIn](https://www.linkedin.com/in/valerypomaflores/)** and **[GitHub](https://github.com/soledadpf)**
 <!--Intro end-->
