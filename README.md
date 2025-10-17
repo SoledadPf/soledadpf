@@ -69,7 +69,7 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/valerypomaflores/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&perline=14" /></a>
-<a href="mailto:soledadpf2410@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail&perline=14" /></a>  
+<a href="mailto:valerypomaflores24@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail&perline=14" /></a>  
 </p>
 
 <!--profile visit count-->
