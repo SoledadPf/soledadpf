@@ -14,7 +14,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <h2 align="center" style="display: inline-block">Backend Developer specializing in Java</h2>
+    <h2 align="center" style="display: inline-block">Backend Developer / Software Developer</h2>
   </ul>
 </div>
 
